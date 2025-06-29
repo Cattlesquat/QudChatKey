@@ -1,7 +1,7 @@
 {
 	"id": "ChatKey",
 	"title": "{{pearly|Chat Key}}",
-	"description": "Adds a bindable key to chat to anyone chattable nearby, for when you want to be specific and just hitting spacebar or clicking might instead do something else unwanted.\n\nhttps://github.com/Cattlesquat/EasyCommandsRemix.git",
+	"description": "Adds a bindable key to chat to anyone chattable nearby, for when you want to be specific and just hitting spacebar or clicking might instead do something else unwanted.\n\nhttps://github.com/Cattlesquat/QudChatKey.git",
 	"tags": "Stable,Beta,UI,UX,Ability,Cosmetic",
 	"version": "1.0",
 	"author": "{{ubernostrum|Cattlesquat}}"
